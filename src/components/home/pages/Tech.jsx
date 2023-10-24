@@ -1,5 +1,5 @@
 
-import { Reaact, useState } from 'react'
+import { React, useState } from 'react'
 import logo from '../../../assets/shared/logo.svg';
 import ham from '../../../assets/shared/icon-hamburger.svg';
 import { Link } from 'react-router-dom';
